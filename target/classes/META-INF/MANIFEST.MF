@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Dev_Java_Spring_Boot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Irina
+Implementation-Vendor-Id: ua.lviv.lgs
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/Dev_Java_Spr
+ ing_Boot/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
